@@ -1,8 +1,0 @@
----
-namespace:
-  externalSecrets: true
-  
-polaris-secret:
-  enabled: true
-  secrets:
-    - name: <your-secret>
