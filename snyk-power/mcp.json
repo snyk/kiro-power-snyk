@@ -1,10 +1,17 @@
 {
   "mcpServers": {
     "Snyk": {
-      "command": "npx",
-      "args": ["-y", "snyk@latest", "mcp", "-t", "stdio"],
-      "env": {}
+        "command": "npx",
+        "args": [
+          "-y",
+          "snyk@latest",
+          "mcp",
+          "-t",
+          "stdio"
+        ],
+        "env": {
+          "PATH": "/usr/local/bin:/bin"
+        }
     }
   }
 }
-
