@@ -4,6 +4,7 @@
 
 This repo is the public repo for installing the "Snyk Secure at Inception" Power into the Kiro (Amazon's AI agent) IDE. A Kiro Power is a packaged extension that adds specialized capabilities to the Kiro AI development environment. Extensive docs on what powers are, how to install them, and how to use them can be found here: https://kiro.dev/docs/powers/. Below is a guide on how to install and use the Snyk power, assuming you download the Kiro IDE and have node JS on your machine.
 
+
 ## How to Use
 
 ### Prerequisites
