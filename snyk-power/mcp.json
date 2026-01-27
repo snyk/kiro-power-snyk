@@ -10,7 +10,7 @@
           "stdio"
         ],
         "env": {
-          "PATH": "/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin:${HOME}/.nvm/versions/node/*/bin:${HOME}/.fnm/current/bin:${HOME}/.volta/bin"
+          "PATH": "/usr/local/bin:/bin"
         }
     }
   }
