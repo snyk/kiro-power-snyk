@@ -8,10 +8,7 @@
           "mcp",
           "-t",
           "stdio"
-        ],
-        "env": {
-          "PATH": "/usr/local/bin:/bin"
-        }
+        ]
     }
   }
 }
