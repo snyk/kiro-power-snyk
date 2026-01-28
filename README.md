@@ -12,7 +12,6 @@ This repo is the public repo for installing the "Snyk Secure at Inception" Power
   -To verify this, you can run "which npx" and "which node" in the terminal and if you see a version number for both, then npx and node are both succesfully installed on your machine.
 
 ### Installation
- ```
 
 1. **Install the Power in Kiro:**
    - Open Kiro IDE
