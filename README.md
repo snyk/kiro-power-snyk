@@ -18,7 +18,7 @@ This repo is the public repo for installing the "Snyk Secure at Inception" Power
    - Access the Powers panel (Ctrl/Cmd + Shift + P → "Configure Powers", or clicking on the ghost with a lightning bolt next to it in the left menu)
    - Click on "Add Custom Power"
    - Select the "Import power from Github" option
-   - Use the link to the snyk-power folder inside this repo as the power: https://github.com/snyk/kiro-power-snyk/tree/598bab69c81607c17445fbeefa9c75c405e91ec3/snyk-power
+   - Use the link to the snyk-power folder inside this repo as the power: https://github.com/snyk/kiro-power-snyk/tree/main/snyk-power
 
    **IMPORTANT:** make sure to specifically use that link above which includes the snyk-power folder; if you try to use the overall repo link the installation will fail due to having extra folders/files in the repo.
    - The power will be installed and ready to use
