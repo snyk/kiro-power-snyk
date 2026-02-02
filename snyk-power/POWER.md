@@ -92,3 +92,4 @@ The `mcp.json` configures the Snyk MCP server to run via npx:
 
 No global Snyk CLI installation required - npx handles it automatically.
 
+This power integrates with Snyk MCP Server (Apache-2.0 license)
