@@ -2,6 +2,7 @@
 name: "snyk-secure-at-inception"
 displayName: "Snyk Secure at Inception"
 description: "Security scanning and remediation for your codebase using Snyk. Automatically scans generated code for vulnerabilities and provides tools to fix them."
+author: "Snyk"
 keywords: ["snyk", "security", "scan", "sast", "sca", "vulnerability", "vuln", "cve", "cwe", "appsec", "devsecops", "code-scan", "dependency-scan", "container-scan", "iac", "remediation", "fix"]
 ---
 
